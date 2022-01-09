@@ -5,7 +5,7 @@
 // @match       https://game.defikingdoms.com/
 // @grant       GM_addStyle
 // @grant       GM_xmlhttpRequest
-// @version     1.1
+// @version     1.2
 // @author      DirtyCajunRice
 // @description 1/8/2022, 7:19:41 PM
 // @downloadURL https://raw.githubusercontent.com/dirtycajunrice/violentmonkey_scripts/main/defi_kingdoms_helper.js
@@ -25,6 +25,9 @@ GM_addStyle(`
 }
 .red {
   color: red;
+}
+.orange {
+  color: orange;
 }
 .yellow {
   color: yellow;
@@ -57,10 +60,13 @@ function scoreColor(score) {
     return "green"
   } else if (score > 80) {
     return "yellow"
+  } else if (score > 70) {
+    return "orange"
   } else {
     return "red"
   }
-}
+};
+
 function getHeroPercentiles(heroID, div) {
   
   GM_xmlhttpRequest({
