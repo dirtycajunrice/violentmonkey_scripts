@@ -15,6 +15,9 @@
 // @homepageURL https://github.com/dirtycajunrice/violentmonkey_scripts/DefiKingdomsHelper/
 // @supportURL  https://github.com/dirtycajunrice/violentmonkey_scripts/issues
 // ==/UserScript==
+// ==OpenUserJS==
+// @author dirtycajunrice
+// ==/OpenUserJS==
 
 /* jshint esversion: 6 */
 

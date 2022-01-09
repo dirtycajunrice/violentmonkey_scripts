@@ -1,14 +1,13 @@
 # DirtyCajunRice's ViolentMonkey Scripts
 
-## Installing ViolentMonkey
+## Installing Violentmonkey
 **NOTE: Only chrome is supported for these scripts**
-1. Navigate to the Chrome Web Store page for the [ViolentMonkey Extension][vm_install]
-2. Click "Add to Chrome"
-3. Click the Extensions Icon in the top right of your browser (the puzzle piece icon)
-4. Pin the extension to your visible extensions (The thumbtack icon next to ViolentMonkey)
+
+[OpenUserJS Violentmonkey Install Guide][oujs_vm_install_guide]
 
 ## Direct Install Links
-* [DeFi Kingdoms Helper][defi_kingdoms_helper]
+[![Install DeFi Kingdoms Helper][dfk_install_badge]][dfk_oujs_install]
+
 ## Installing A Script Manually
 1. Click your ViolentMonkey Extension
 2. Click Settings (cog icon)
@@ -22,6 +21,6 @@
 6. Click OK
 7. Checkmark close 
 
-
-[defi_kingdoms_helper]: 
-[vm_install]: https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
+[dfk_install_badge]: https://img.shields.io/badge/Install-DeFi%20Kingdoms%20Helper-blue?style=for-the-badge
+[dfk_oujs_install]: https://openuserjs.org/install/dirtycajunrice/DeFi_Kingdoms_Helper.user.js
+[oujs_vm_install_guide]: https://openuserjs.org/about/Violentmonkey-for-Chrome

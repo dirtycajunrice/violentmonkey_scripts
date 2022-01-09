@@ -6,6 +6,9 @@ DeFi Kingdoms Helper is a UserScript to help with various tasks while playing De
 * [GokMachar Hero Ranking][gmhr] on every Hero
 
 ---
+## Install
+[![Install DeFi Kingdoms Helper][dfk_install_badge]][dfk_oujs_install]
+---
 ## Donations/Tips
 If you are feeling generous, I appreciate you!
 Wallet: [0x78a87E5eD71372bC5F0bcbe5C4B55Ed03c28b779][metamask_link]
@@ -35,3 +38,5 @@ Wallet: [0x78a87E5eD71372bC5F0bcbe5C4B55Ed03c28b779][metamask_link]
 [wallet_qr_b779]: https://github.com/dirtycajunrice/violentmonkey_scripts/blob/main/assets/images/wallet_qr_0x78a87E5eD71372bC5F0bcbe5C4B55Ed03c28b779.png?raw=true
 [metamask_link]: https://metamask.app.link/send/0x78a87E5eD71372bC5F0bcbe5C4B55Ed03c28b779
 [gmhr]: http://dfktavern.com/gokmachar-ranking
+[dfk_oujs_install]: https://openuserjs.org/install/dirtycajunrice/DeFi_Kingdoms_Helper.user.js
+[dfk_install_badge]: https://img.shields.io/badge/Install-DeFi%20Kingdoms%20Helper-blue?style=for-the-badge
