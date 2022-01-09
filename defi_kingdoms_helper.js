@@ -5,9 +5,12 @@
 // @match       https://game.defikingdoms.com/
 // @grant       GM_addStyle
 // @grant       GM_xmlhttpRequest
-// @version     1.0
+// @version     1.1
 // @author      DirtyCajunRice
 // @description 1/8/2022, 7:19:41 PM
+// @downloadURL https://raw.githubusercontent.com/dirtycajunrice/violentmonkey_scripts/main/defi_kingdoms_helper.js
+// @homepageURL https://github.com/dirtycajunrice/violentmonkey_scripts/blob/main/defi_kingdoms_helper.js
+// @supportURL https://github.com/dirtycajunrice/violentmonkey_scripts/blob/main/defi_kingdoms_helper.js
 // ==/UserScript==
 
 GM_addStyle(`
